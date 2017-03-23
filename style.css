@@ -1,0 +1,45 @@
+body
+{
+	margin:0;
+	padding:50;
+	font-family:sans-serif;
+	
+}
+
+header
+{
+	background:#02255b;
+	padding:10px 0;
+	text-align:center;
+	color:white;
+	
+	
+}
+
+nav ul
+{
+	
+background-color:#16af08;
+overflow:hidden;
+color:white;
+text-align:center;
+padding:5px;	
+margin:2px;	
+	
+}
+a
+ {
+ text-decoration:none;
+ color:white;
+ padding:30px;
+ 
+}
+
+nav ul li
+{
+	padding: 10px;
+	display:inline-block;
+}
+
+
+
